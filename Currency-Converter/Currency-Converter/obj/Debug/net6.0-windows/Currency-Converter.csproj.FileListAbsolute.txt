@@ -1,0 +1,17 @@
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\bin\Debug\net6.0-windows\Currency-Converter.exe
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\bin\Debug\net6.0-windows\Currency-Converter.deps.json
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\bin\Debug\net6.0-windows\Currency-Converter.runtimeconfig.json
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\bin\Debug\net6.0-windows\Currency-Converter.dll
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\bin\Debug\net6.0-windows\Currency-Converter.pdb
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\Currency-Converter.csproj.AssemblyReference.cache
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\Currency_Converter.ConversionForm.resources
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\Currency-Converter.csproj.GenerateResource.cache
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\Currency-Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\Currency-Converter.AssemblyInfoInputs.cache
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\Currency-Converter.AssemblyInfo.cs
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\Currency-Converter.csproj.CoreCompileInputs.cache
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\Currency-Converter.dll
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\refint\Currency-Converter.dll
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\Currency-Converter.pdb
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\Currency-Converter.genruntimeconfig.cache
+C:\Users\mrdil\source\repos\Currency-Converter\Currency-Converter\obj\Debug\net6.0-windows\ref\Currency-Converter.dll
